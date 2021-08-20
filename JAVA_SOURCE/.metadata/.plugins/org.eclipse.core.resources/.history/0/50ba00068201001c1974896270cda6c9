@@ -1,0 +1,9 @@
+package chapter2;
+
+public class CastEx2 {
+	public static void main(String[] args) {
+		int num1 = 10;
+		byte num2 = (byte)num1; // int -> byte
+		System.out.println(num2);
+	}
+}

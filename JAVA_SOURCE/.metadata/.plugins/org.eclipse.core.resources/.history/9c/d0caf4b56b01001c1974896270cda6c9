@@ -1,0 +1,9 @@
+package chapter2;
+
+public class characterEx1 {
+	public static void main(String[]avrg) {
+		char ch1 = 'A';
+		
+		System.out.println(ch1);
+	}
+}

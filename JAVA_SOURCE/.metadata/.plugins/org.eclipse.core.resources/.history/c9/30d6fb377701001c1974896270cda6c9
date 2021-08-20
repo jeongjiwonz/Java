@@ -1,0 +1,7 @@
+package chapter2;
+
+public class doubleEx1 {
+	public static void main(String[]args) {
+		
+	}
+}
